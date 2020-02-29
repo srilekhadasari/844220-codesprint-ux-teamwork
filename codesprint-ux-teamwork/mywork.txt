@@ -1,0 +1,21 @@
+My associate id:
+844271 
+Other team members:
+844236, 844226, 844224,
+Team lead:
+844226
+My Role in team:
+1. To develop appointments page and view appointment component
+My development files:
+1. viewAppointment.component.ts
+2. addAppointment.component.ts
+3. package.json
+
+I was strong in:
+1. Template Driven Forms
+2. HttpClient
+3. Documentation
+I was weak in:
+ Forms Validation
+Feedback:
+1. Able to read codesprint document 1 day in advance will help.
